@@ -31,7 +31,7 @@ Overcoming Collinearity, model overfitting and complexity using Regularization
              * implement, analyse Lasso regularization to avoid  collinearity,    
                model overfitting and model complexity
              * discovering relevant features using Lasso model 
-             * implement, analyse Elasticnet regularization to avoid  collinearity                       , model overfitting and model complexity
+             * implement, analyse Elasticnet regularization to avoid collinearity, model overfitting and model complexity
              * Analysing results of regularization
              * comparing results of regularization with linear regression model
 Hyperparamter tuning via cross validation
